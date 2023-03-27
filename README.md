@@ -12,6 +12,4 @@ That is all and thank you.
 
 
 ### Flappy Ball Game Review
-![preview1](previewzombiegame1.png)
-
-![preview2](previewzombiegame2.png)
+![preview1](previewflappyballgame.png)
